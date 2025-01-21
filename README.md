@@ -6,8 +6,7 @@ This model implements a neural network model using TensorFlow to predict furnish
 
 
 ## Participants
-This project was developed by the following participants:
+ [Josiane Ishimwe]
 
-Participant 1: [Josiane Ishimwe]
-Participant 2: [Jules Gatete]
+ [Jules Gatete]
 
