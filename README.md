@@ -10,3 +10,4 @@ This model implements a neural network model using TensorFlow to predict furnish
 
  [Jules Gatete]
 
+![image](https://github.com/user-attachments/assets/eda19f0a-4a78-479d-87a9-940a84c1771d)
